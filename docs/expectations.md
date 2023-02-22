@@ -15,7 +15,6 @@ nav_order: 2
 
 ---
 
-View this site's [\_config.yml](https://github.com/just-the-docs/just-the-docs/tree/main/_config.yml) file as an example.
 
 ## Your Role
 
@@ -54,30 +53,3 @@ As a reflection of the equality and collegiality that is central to our group, E
       # Exclude the collection from the search
       # Supports true or false (default)
       # search_exclude: true -->
-```
-
-The navigation for all your normal pages (if any) is displayed before those in collections.
-
-You can reference multiple collections.
-This creates categories in the navigation with the configured names.
-
-```yaml
-collections:
-  tests:
-    permalink: "/:collection/:path/"
-    output: true
-  tutorials:
-    permalink: "/:collection/:path/"
-    output: true
-
-just_the_docs:
-  collections:
-    tests:
-      name: Tests
-    tutorials:
-      name: Tutorials
-```
-
-When *all* your pages are in a single collection, its name is not displayed.
-
-The navigation for each collection is a separate name space for page titles: a page in one collection cannot be a child of a page in a different collection, or of a normal page.
