@@ -30,7 +30,7 @@ Lab members come from diverse personal and academic backgrounds. Respect must be
 
 ## Elana's Role
 
-Elana’s role is to facilitate your growth and success, as well as that of your project. She will support these efforts with weekly one-on-one meetings. Meetings will be held in person, or rescheduled to online / phone pending Elana’s travel schedule.  
+Elana’s role is to facilitate your growth and success, as well as that of your project. She will support these efforts with weekly one-on-one meetings. Meetings will be held in person, or rescheduled to online/phone pending Elana’s travel schedule.  
 
 Within your project, Elana will serve as a sounding board for ideas, help you plan and troubleshoot, and help design experiments or algorithms to test your hypotheses. To facilitate your success, she will work with you to plan your training and design a career plan that will take you where you want to go.
 
